@@ -1,0 +1,13 @@
+
+.wrapper {
+  color:blue;
+  
+  width: 100vm;
+  min-height: calc(100vh - 60px);
+  /* overflow-x: unset; */
+}
+
+.quiz {
+  min-height: 600px;
+  background-color: turquoise;
+}
